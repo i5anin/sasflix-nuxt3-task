@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div>123
     <h1>Posts</h1>
     <PostList :posts="posts" />
   </div>
